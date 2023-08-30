@@ -1,3 +1,5 @@
+@import "~bootstrap/scss/bootstrap.scss";
+
 
 /* 
 
@@ -10,3 +12,8 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+
+.selected{
+    box-shadow: 0 0 10px 10px white ; 
+}
